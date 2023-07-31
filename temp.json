@@ -1,0 +1,15 @@
+{
+    "project": "*",
+    "name": "*",
+    "description": "*",
+    "license": "*",
+    "language": "*",
+    "category": "*",
+    "sources": [
+        {
+            "name": "*",
+            "url": "*",
+            "license": "*"
+        }
+    ]
+}
